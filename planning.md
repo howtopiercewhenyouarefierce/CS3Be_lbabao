@@ -3,7 +3,7 @@
 ## Decomposition: 
 1. Create the Plant class.
 2. Create the Zombie class.
-3.Create two Plant objects with different damage values.
+3. Create two Plant objects with different damage values.
 4. Create one Zombie object.
 5. Make the plants attack the Zombie.
 6. Make the Zombie move toward the plants.
